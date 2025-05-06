@@ -1,11 +1,10 @@
 streamlit
-pandas
+optuna
 scikit-learn
 xgboost
 lightgbm
+pandas
+numpy
 imbalanced-learn
-optuna
 plotly
 matplotlib
-joblib
-numpy
