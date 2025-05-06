@@ -7,3 +7,4 @@ imbalanced-learn
 optuna
 plotly
 matplotlib
+tqdm
