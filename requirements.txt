@@ -5,3 +5,5 @@ xgboost
 lightgbm
 imbalanced-learn
 optuna
+plotly
+matplotlib
